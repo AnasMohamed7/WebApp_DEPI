@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.core\bin\Debug\net9.0\WebApp_Depi.Core.deps.json
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.core\bin\Debug\net9.0\WebApp_Depi.Core.runtimeconfig.json
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.core\bin\Debug\net9.0\WebApp_Depi.Core.dll
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.core\bin\Debug\net9.0\WebApp_Depi.Core.pdb
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.core\obj\Debug\net9.0\WebApp_Depi.Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.core\obj\Debug\net9.0\WebApp_Depi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.core\obj\Debug\net9.0\WebApp_Depi.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.core\obj\Debug\net9.0\WebApp_Depi.Core.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.core\obj\Debug\net9.0\WebApp_Depi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.core\obj\Debug\net9.0\WebApp_Depi.Core.dll
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.core\obj\Debug\net9.0\refint\WebApp_Depi.Core.dll
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.core\obj\Debug\net9.0\WebApp_Depi.Core.pdb
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.core\obj\Debug\net9.0\WebApp_Depi.Core.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.core\obj\Debug\net9.0\ref\WebApp_Depi.Core.dll

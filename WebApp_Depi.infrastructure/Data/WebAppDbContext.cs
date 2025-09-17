@@ -10,7 +10,7 @@ using WebApp_Depi.core.Modules;
 
 namespace WebApp_Depi.infrastructure.Data
 {
-    internal class WebAppDbContext : DbContext
+    public class WebAppDbContext : DbContext
     {
         public WebAppDbContext(DbContextOptions<WebAppDbContext> options) : base(options)
         {
@@ -22,6 +22,10 @@ namespace WebApp_Depi.infrastructure.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<Category>().HasData(
+                new Category { Id = 1, Name = "Electronics" },
+                new Category { Id = 2, Name = "Books" }
+                            );
         }
 
     }

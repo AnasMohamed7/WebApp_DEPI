@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.infrastructure\bin\Debug\net9.0\WebApp_Depi.Infrastructure.deps.json
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.infrastructure\bin\Debug\net9.0\WebApp_Depi.Infrastructure.runtimeconfig.json
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.infrastructure\bin\Debug\net9.0\WebApp_Depi.Infrastructure.dll
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.infrastructure\bin\Debug\net9.0\WebApp_Depi.Infrastructure.pdb
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.infrastructure\bin\Debug\net9.0\WebApp_Depi.Core.dll
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.infrastructure\bin\Debug\net9.0\WebApp_Depi.Core.pdb
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.infrastructure\obj\Debug\net9.0\WebApp_Depi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.infrastructure\obj\Debug\net9.0\WebApp_Depi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.infrastructure\obj\Debug\net9.0\WebApp_Depi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.infrastructure\obj\Debug\net9.0\WebApp_Depi.Infrastructure.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.infrastructure\obj\Debug\net9.0\WebApp_Depi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.infrastructure\obj\Debug\net9.0\WebApp_D.EC699603.Up2Date
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.infrastructure\obj\Debug\net9.0\WebApp_Depi.Infrastructure.dll
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.infrastructure\obj\Debug\net9.0\refint\WebApp_Depi.Infrastructure.dll
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.infrastructure\obj\Debug\net9.0\WebApp_Depi.Infrastructure.pdb
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.infrastructure\obj\Debug\net9.0\WebApp_Depi.Infrastructure.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\WebApp_Depi\WebApp_Depi.infrastructure\obj\Debug\net9.0\ref\WebApp_Depi.Infrastructure.dll
